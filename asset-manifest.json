@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/iGEM/static/css/main.010eb772.css",
+    "main.js": "/iGEM/static/js/main.3086e4c4.js",
+    "static/js/453.64512fd7.chunk.js": "/iGEM/static/js/453.64512fd7.chunk.js",
+    "static/media/space_main.jpeg": "/iGEM/static/media/space_main.d70cb9ea2334e360acbc.jpeg",
+    "static/media/space1.jpg": "/iGEM/static/media/space1.dde3964d5f8fc9da0f9c.jpg",
+    "static/media/spa.jpg": "/iGEM/static/media/spa.fb833377dfd22fdef879.jpg",
+    "static/media/logo.svg": "/iGEM/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/iGEM/index.html",
+    "main.010eb772.css.map": "/iGEM/static/css/main.010eb772.css.map",
+    "main.3086e4c4.js.map": "/iGEM/static/js/main.3086e4c4.js.map",
+    "453.64512fd7.chunk.js.map": "/iGEM/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.010eb772.css",
+    "static/js/main.3086e4c4.js"
+  ]
+}
